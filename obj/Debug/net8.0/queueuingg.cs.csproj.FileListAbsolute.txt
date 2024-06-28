@@ -1,0 +1,14 @@
+/Users/leonbuena/algos/queueing/queueuingg.cs/obj/Debug/net8.0/queueuingg.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonbuena/algos/queueing/queueuingg.cs/obj/Debug/net8.0/queueuingg.cs.AssemblyInfoInputs.cache
+/Users/leonbuena/algos/queueing/queueuingg.cs/obj/Debug/net8.0/queueuingg.cs.AssemblyInfo.cs
+/Users/leonbuena/algos/queueing/queueuingg.cs/obj/Debug/net8.0/queueuingg.cs.csproj.CoreCompileInputs.cache
+/Users/leonbuena/algos/queueing/queueuingg.cs/bin/Debug/net8.0/queueuingg.cs
+/Users/leonbuena/algos/queueing/queueuingg.cs/bin/Debug/net8.0/queueuingg.cs.deps.json
+/Users/leonbuena/algos/queueing/queueuingg.cs/bin/Debug/net8.0/queueuingg.cs.runtimeconfig.json
+/Users/leonbuena/algos/queueing/queueuingg.cs/bin/Debug/net8.0/queueuingg.cs.dll
+/Users/leonbuena/algos/queueing/queueuingg.cs/bin/Debug/net8.0/queueuingg.cs.pdb
+/Users/leonbuena/algos/queueing/queueuingg.cs/obj/Debug/net8.0/queueuingg.cs.dll
+/Users/leonbuena/algos/queueing/queueuingg.cs/obj/Debug/net8.0/refint/queueuingg.cs.dll
+/Users/leonbuena/algos/queueing/queueuingg.cs/obj/Debug/net8.0/queueuingg.cs.pdb
+/Users/leonbuena/algos/queueing/queueuingg.cs/obj/Debug/net8.0/queueuingg.cs.genruntimeconfig.cache
+/Users/leonbuena/algos/queueing/queueuingg.cs/obj/Debug/net8.0/ref/queueuingg.cs.dll
